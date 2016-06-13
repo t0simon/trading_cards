@@ -1,4 +1,4 @@
-# trading_cards
+# virtual trading cards
 Installation:
 
 1. Copy all files in your directory
